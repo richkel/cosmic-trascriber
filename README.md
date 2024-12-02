@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# cosmic-trascriber
+# Cosmic-Trascriber
 =======
 [![whishper banner](misc/banner.png)](https://whishper.net)
 
