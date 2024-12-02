@@ -1,0 +1,12 @@
+{
+  "name": "cosmic-transcriber",
+  "version": "1.0.0",
+  "description": "Cosmic Transcriber powered by Whishper",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "25.3.1"
+  }
+}
